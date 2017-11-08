@@ -1,0 +1,186 @@
+ *{
+ 	padding:0px;
+ 	margin:0px;
+ }
+ .outer{
+			width:750px;
+			margin:0 auto;
+		}
+		.outer_center{
+			width:750px;
+			height:1280px;
+			background:url(../images/banner.jpg)no-repeat;
+			background-size:100% 100%;
+
+		} 
+		.outer_center .one{
+			width:745px;
+			height:734px;
+			border-radius:448px;
+			border:2px dotted orange;
+			border-radius:450px;
+			position:absolute;
+			top:181px;
+		}
+		.outer_center .two{
+			width:726px;
+			height:720px;
+			border:2px dotted orange;
+			border-radius:330px;
+			position:absolute;
+			top:193px;
+		}
+		.outer_center .one1{
+			width:15px;
+			height:19px;
+			background-color:orange;
+			border-radius:12px;
+			position:relative;
+			top:190px;
+			left:220px;
+		}
+		.outer_center .one2{
+			width:15px;
+			height:19px;
+			background-color:orange;
+			border-radius:12px;
+			position:relative;
+			top:880px;
+			left:400px;
+		}
+		.outer_center .three{
+			width:700px;
+			height:690px;
+			background-color:#6a6a68;
+			position:relative;
+			top:160px;
+			left:20px;
+			border-radius:320px;
+			opacity: 0.5;
+		}
+		.outer_center .three img{
+			position:relative;
+			left:220px;
+			top:5px;
+		}
+		.outer_center .three div{
+			width:377px;
+			height:70px;
+ 			line-height:70px;
+			border:3px solid white;
+			margin:0 auto;
+			margin-top:10px;
+ 
+		}
+	    .three #getMa{
+			text-decoration:none;
+			font-size:25px;
+			color:orange;
+			float:right;
+			margin-top:-70px;
+	    }
+		.outer_center .three select{
+			font-size:25px;
+		}
+
+		.outer_center input{
+			width:260px;
+			height:64px;
+			float:right;
+			background:none;
+			border:none;
+			font-size:22px;
+			 
+		}
+		.outer_center span{
+ 		   font-size:22px;
+ 		   color:white;
+		   display:inline-block;
+		   padding-left:10px;
+		}
+		.outer_center select{
+			width:310px;
+			height:73px;
+			background:none;
+			border:none;
+		}
+	    .four{
+			height: 350px;
+			width:750px; 
+            position:absolute;
+            top:940px;
+                                 
+        }                        
+         .four .four_center{
+             width: 330px;
+             height:35px;
+             position:relative;
+             top:3px;
+             left:180px;
+              
+        }
+         .four .four_center #checkbox{
+         	width:15px;
+         	height:15px;
+			float:left;
+			margin-top:8px;
+			margin-left:20px;
+			border:2px solid orange;
+        }
+        .four .four_center #checkbox img{
+        	width:15px;
+         	height:15px;
+			float:left;
+			 
+
+        }
+        .four .four_center span{
+        	display:inline-block;
+        	float:left;
+        	margin-top:-25px;
+        	margin-left:40px;
+        	
+        	 
+        	 
+        }
+
+        .outer_center #one .registerBtn{
+        	width:200px;
+        	height:100px;
+        	position:relative;
+        	line-height:100px;
+        	left:260px;
+        	top:270px;
+        	background:orange;
+        	border-radius:10px;
+        	font-size:28px;
+        	color:white;
+
+        }
+        .outer_center #one a{
+        	text-decoration:none;
+        	font-size: 30px;
+        	margin-left:80px;
+        	color:white;
+
+        }
+        .outer_center #two a{
+        	text-decoration:none;
+        	color:white;
+        	font-size: 30px;
+
+        }
+        .outer_center #two #a1{
+			position:relative;
+			top:330px;
+			left:160px;
+        }
+        .outer_center #two #a2{
+        	position:relative;
+			top:330px;
+			left:380px;
+
+        }
+
+                                
+			
